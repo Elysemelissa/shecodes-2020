@@ -1,6 +1,6 @@
 # SheCodes 2020 Final Project
 
-During lockdown in 2020, I decided to join a front-end workshop for women: SheCodes. This was my very first step into the world of Web Development, and also where I found out that I wanted to change my career and attend the <a href="https://www.lewagon.com/">Le Wagon</a> Web Development bootcamp. 
+During lockdown in 2020, I decided to join a front-end workshop: SheCodes. This was my very first step into the world of Web Development, and also where I found out that I wanted to change my career and attend the <a href="https://www.lewagon.com/">Le Wagon</a> Web Development bootcamp. 
 
 
 
